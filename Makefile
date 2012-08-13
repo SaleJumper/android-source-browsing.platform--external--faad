@@ -36,7 +36,7 @@ DYNLIB=libaacdec.so
 
 all: mpeg4ip_config.h libaacdec.so
 
-include ../../source/common.mak
+include ../../jumper/source/common.mak
 
 #
 # setup the correct config.h file
